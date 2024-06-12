@@ -15,3 +15,13 @@ Technology Stack:
 - Blockchain: To generate anonymous, secure reporting tokens and manage reward allocations.
 
 CivicConnect empowers citizens to actively participate in municipal management, enhancing the quality of urban living through collective action and transparency.
+
+
+Level - Architecture
+Frontend (React.js/Vue.js)
+      |
+Backend (Node.js/Express.js)
+      |
+Blockchain (Ethereum/Polygon)
+      |
+IPFS (for storing reports and images)
